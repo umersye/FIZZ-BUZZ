@@ -1,0 +1,11 @@
+body{
+    background: orange;
+    font-size: x-large;
+    text-align: center;
+    margin:200px auto;
+  }
+  button,input
+  {
+    font-size: x-large;
+    text-align:center;
+  }
